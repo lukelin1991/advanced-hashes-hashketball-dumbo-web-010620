@@ -225,6 +225,3 @@ def most_points_scored
   end
   return my_name_is
 end
-
-def winning_team
-end
